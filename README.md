@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lukerombola
+- 👋 Hi, I’m @Lukerombola, from Argentine. 
 - 👀 I’m interested in financial markets
 - 🌱 I’m currently learning python and other programming languagues
 - 💞️ I’m looking to collaborate on programming on financial markets system
